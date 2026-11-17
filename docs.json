@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "luma",
   "name": "MEEK MEEK",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#A11467",
+    "light": "#E0B6E2",
+    "dark": "#BE72FF"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -65,8 +65,26 @@
   "footer": {
     "socials": {
       "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/",
+      "linkedin": "https://linkedin.com/company/mintlify",
+      "reddit": "https://reddit.com/user/u/wonderfulart8521"
+    }
+  },
+  "icons": {
+    "library": "lucide"
+  },
+  "background": {
+    "decoration": "gradient"
+  },
+  "appearance": {
+    "default": "system"
+  },
+  "fonts": {
+    "heading": {
+      "family": "Lato"
+    },
+    "body": {
+      "family": "Poppins"
     }
   }
 }
